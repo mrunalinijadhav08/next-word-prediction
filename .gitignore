@@ -1,0 +1,20 @@
+
+# Virtual environment
+venv/
+
+# Python cache files
+_pycache_/
+*.pyc
+
+# Model files (very large)
+*.h5
+*.tflite
+
+# Training artifacts
+saved_models/
+
+# Jupyter leftovers
+.ipynb_checkpoints/
+
+# Environment variables
+.env
